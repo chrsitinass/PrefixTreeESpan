@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christina/Projects/PrefixTreeESpan/mining.cpp
+algorithm
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+ctime
+-
+map
+-
+set
+-
+stack
+-
+string
+-
+unordered_map
+-
+vector
+-
+
